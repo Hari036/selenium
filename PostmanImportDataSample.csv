@@ -1,0 +1,4 @@
+Test Scenario ID,Test Scenario Description,Test Case ID,Test Case Description,Priority,API Call Type,Url,Expected Response Time,Expected Status Code,Headers,Query Parameters,Request Payload,Values to be stored and chained,Variable Locator,Variable name created,Expected Response Data
+TS001,Sample test scenario,TC01,Sample test case,High,GET,test/url/{{sample}},400,200,,,"{
+name:{{parameterizedValue
+}",token:sample,,valueFetched_1_TS001_TC01,
